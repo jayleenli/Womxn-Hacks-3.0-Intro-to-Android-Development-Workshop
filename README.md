@@ -1,4 +1,4 @@
-# SB Hacks Intro to Web Apps Workshop
+# Womxn Hacks 3.0 Intro to Android Development Workshop
 **Workshop date:** April 10th, 2021  
 **Hosted by:** Jayleen Li and Jacqui Mai
 
